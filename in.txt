@@ -1,0 +1,9 @@
+Jupiter lent 10.00 to Poseidon
+Hermes borrowed 5.00 from Demeter
+Poseidon borrowed 3.00 from Zeus
+Poseidon lent 2.00 to Hermes
+Hermes stole 1.50 from Zeus
+Athena borrowed 5.00 from Jupiter
+Demeter lent 10.00 to Apollo
+Poseidon lent 15.00 to Athena
+Jupiter borrowed 0.50 from Demeter
