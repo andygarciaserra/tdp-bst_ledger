@@ -19,23 +19,66 @@ module modules
 
 contains
 
+    ! Print BST and Total Credit/Debit
+    recursive subroutine Print_All(root)
+        type(a_tree_node), pointer, intent(in) :: root
+        real(kind=8)                           :: debitsum
+        real(kind=8)                           :: creditsum
+        debitsum = 0
+        creditsum = 0
+
+        call Print_BST(root)
+        call Sum_Transactions(root, debitsum, creditsum)
+        print '(a)', ''
+        print '(a,f0.2)', 'Net debit:  ', debitsum
+        print '(a,f0.2)', 'Net credit: ', creditsum
+
+    end subroutine Print_All
+
+    ! Summing transactions
+    recursive subroutine Sum_Transactions(root, debitsum, creditsum)
+        type(a_tree_node), pointer, intent(in)      :: root
+        real(kind=8), intent(in out)                :: debitsum
+        real(kind=8), intent(in out)                :: creditsum
+
+        if (associated(root)) then
+            call Sum_Transactions(root%left, debitsum, creditsum)
+            call Sum_List(root%credit,creditsum)
+            call Sum_List(root%debit,debitsum)
+            call Sum_Transactions(root%right, debitsum, creditsum)
+        end if
+
+    end subroutine Sum_Transactions
+
+    ! Summing list elements
+    recursive subroutine Sum_List(head,total)
+        type(a_list_item), pointer, intent(in)      :: head
+        real(kind=8), intent(in out)                :: total
+        if(associated(head)) then
+            call Sum_List(head%next,total)
+            total = total + head%amount
+        end if
+
+    end subroutine Sum_List
+
     ! Printing BST
     recursive subroutine Print_BST(root)
         type(a_tree_node), pointer, intent(in)  :: root
-
-        if(associated(root)) then
-            call Print_BST(root%left)
-            print '(a,a)', root%name, ':'
-            if(associated(root%debit)) then
-                print '(a)', '    debit'
-                call Print_List(root%debit)
+        block
+            if(associated(root)) then
+                call Print_BST(root%left)
+                print '(a,a)', root%name, ':'
+                if(associated(root%debit)) then
+                    print '(a)', '    debit'
+                    call Print_List(root%debit)
+                end if
+                if(associated(root%credit)) then
+                    print '(a)', '    credit'
+                    call Print_List(root%credit)
+                end if
+                call Print_BST(root%right)
             end if
-            if(associated(root%credit)) then
-                print '(a)', '    credit'
-                call Print_List(root%credit)
-            end if
-            call Print_BST(root%right)
-        end if
+        end block
     end subroutine Print_BST
 
     ! Printing a List
@@ -43,7 +86,7 @@ contains
         type(a_list_item), pointer, intent(in)  :: head
 
         if(associated(head)) then
-            print '(a,a,a,f0.2)', '       ', head%deity%name, ' ', head%amount 
+            print '(a,a,a,f0.2)', '        ', head%deity%name, ' ', head%amount 
             call Print_List(head%next)
         end if
     end subroutine Print_List
@@ -131,4 +174,27 @@ contains
         secondNode => Find_Node(root, Deity2)
         call Insert_in_List(firstNode%debit, amount, secondNode)
     end subroutine Insert_Debit
+
+    ! Destroying the tree
+    recursive subroutine Destroy_BST(root)
+        type(a_tree_node), pointer, intent(in out)      :: root
+
+        if(associated(root)) then
+            call Destroy_BST(root%left)
+            call Destroy_BST(root%right)
+            call Destroy_List(root%credit)
+            call Destroy_List(root%debit)
+            deallocate(root)
+        end if
+    end subroutine
+
+    ! Destroying a list
+    recursive subroutine Destroy_List(head)
+        type(a_list_item), pointer, intent(in out)      :: head
+
+        if(associated(head)) then
+            call Destroy_List(head%next)
+            deallocate(head)
+        end if
+    end subroutine
 end module

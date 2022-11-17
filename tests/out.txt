@@ -1,0 +1,44 @@
+Jupiter has been added.
+Poseidon has been added.
+Hermes has been added.
+Demeter has been added.
+Zeus has been added.
+Wrong transaction 'stole'.
+Athena has been added.
+Apollo has been added.
+
+Apollo:
+    credit
+        Demeter 10.00
+Athena:
+    credit
+        Jupiter 5.00
+        Poseidon 15.00
+Demeter:
+    debit
+        Apollo 10.00
+        Hermes 5.00
+        Jupiter .50
+Hermes:
+    credit
+        Demeter 5.00
+        Poseidon 2.00
+Jupiter:
+    debit
+        Athena 5.00
+        Poseidon 10.00
+    credit
+        Demeter .50
+Poseidon:
+    debit
+        Athena 15.00
+        Hermes 2.00
+    credit
+        Jupiter 10.00
+        Zeus 3.00
+Zeus:
+    debit
+        Poseidon 3.00
+
+Net debit:  50.50
+Net credit: 50.50

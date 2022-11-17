@@ -1,0 +1,1926 @@
+Hestia has been added.
+Oceanus has been added.
+Wrong transaction 'presented'.
+Erebus has been added.
+Hermes has been added.
+Coeus has been added.
+Nemesis has been added.
+Eros has been added.
+Hades has been added.
+Artemis has been added.
+Tethys has been added.
+Wrong transaction 'presented'.
+Epimetheus has been added.
+Cronus has been added.
+Ananke has been added.
+Iapetus has been added.
+Ares has been added.
+Aether has been added.
+Nyx has been added.
+Hypnos has been added.
+Apollo has been added.
+Eos has been added.
+Poseidon has been added.
+Phanes has been added.
+Hephaestus has been added.
+Thanatos has been added.
+Demeter has been added.
+Astraeus has been added.
+Uranus has been added.
+Perses has been added.
+Achlys has been added.
+Asteria has been added.
+Prometheus has been added.
+Aion has been added.
+Helios has been added.
+Selene has been added.
+Dione has been added.
+Pallas has been added.
+Theia has been added.
+Wrong transaction 'stole'.
+Tartarus has been added.
+Chronos has been added.
+Gaia has been added.
+Themis has been added.
+Wrong transaction 'presented'.
+Mnemosyne has been added.
+Dionysus has been added.
+Lelantos has been added.
+Rhea has been added.
+Wrong transaction 'stole'.
+Metis has been added.
+Athena has been added.
+Atlas has been added.
+Phoebe has been added.
+Wrong transaction 'stole'.
+Leto has been added.
+Hera has been added.
+Wrong transaction 'stole'.
+Styx has been added.
+Wrong transaction 'presented'.
+Aphrodite has been added.
+Thalassa has been added.
+Pontus has been added.
+Hyperion has been added.
+Crius has been added.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Chaos has been added.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Hemera has been added.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Menoetius has been added.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'presented'.
+Wrong transaction 'presented'.
+Wrong transaction 'stole'.
+Wrong transaction 'stole'.
+
+Achlys:
+    debit
+        Aether 62.87
+        Aion 33.35
+        Ananke 65.98
+        Asteria 89.84
+        Coeus 150.11
+        Dione 88.25
+        Hades 88.44
+        Hemera 55.89
+        Hestia 19.46
+        Hypnos 36.25
+        Iapetus 32.80
+        Leto 36.02
+        Metis 9.23
+        Rhea 96.26
+        Uranus 30.91
+    credit
+        Aether 76.11
+        Aphrodite 64.28
+        Asteria 13.94
+        Chronos 81.52
+        Dionysus 86.81
+        Eos 16.84
+        Erebus 84.52
+        Gaia 39.65
+        Hermes 35.46
+        Metis 70.55
+        Mnemosyne 47.19
+        Pallas 96.20
+        Poseidon 7.96
+        Selene 44.66
+        Styx 14.35
+        Thanatos 85.29
+Aether:
+    debit
+        Achlys 76.11
+        Ares 85.18
+        Chaos 39.71
+        Cronus 89.87
+        Dionysus 226.41
+        Erebus 35.27
+        Gaia 77.61
+        Hephaestus 77.68
+        Hyperion 73.52
+        Menoetius 12.55
+        Nemesis 79.38
+        Phanes 64.80
+        Prometheus 73.91
+    credit
+        Achlys 62.87
+        Athena 159.16
+        Demeter 43.18
+        Hemera 42.75
+        Hypnos 60.19
+        Menoetius 54.14
+        Pontus 55.36
+        Poseidon 45.72
+        Rhea 49.21
+        Tethys 26.81
+        Thalassa 34.13
+        Themis 73.19
+Aion:
+    debit
+        Ares 46.58
+        Astraeus 67.60
+        Atlas 190.50
+        Gaia 89.64
+        Helios 80.18
+        Hera 108.00
+        Hestia 63.58
+        Lelantos 53.86
+        Menoetius 43.22
+        Perses 31.02
+        Pontus 8.06
+        Prometheus 49.55
+        Rhea 29.92
+        Tethys 28.75
+    credit
+        Achlys 33.35
+        Crius 18.95
+        Eos 63.53
+        Hades 94.22
+        Helios 2.83
+        Hemera 43.97
+        Hypnos 53.45
+        Leto 11.77
+        Menoetius 29.16
+        Perses 25.70
+        Phanes 71.93
+        Tethys 20.32
+        Uranus 77.07
+Ananke:
+    debit
+        Aphrodite 46.35
+        Apollo 37.79
+        Athena 67.40
+        Chaos 122.85
+        Chronos 69.77
+        Epimetheus 24.49
+        Hades 89.11
+        Leto 76.72
+        Metis 90.45
+        Nyx 64.09
+        Tartarus 88.32
+        Thanatos 5.15
+    credit
+        Achlys 65.98
+        Apollo 26.84
+        Astraeus 91.21
+        Chaos 94.03
+        Crius .25
+        Cronus 30.11
+        Epimetheus 9.79
+        Eros 37.24
+        Helios 144.17
+        Hephaestus 28.96
+        Hypnos 146.13
+        Iapetus 90.67
+        Phanes 95.56
+        Phoebe 5.78
+        Prometheus 82.22
+        Tartarus 91.14
+        Thalassa 186.44
+        Thanatos 66.97
+        Theia 78.96
+        Themis 41.85
+Aphrodite:
+    debit
+        Achlys 64.28
+        Artemis 80.33
+        Hemera 90.33
+        Hera 54.87
+        Lelantos 81.27
+        Nemesis 108.86
+        Phanes 163.77
+        Prometheus 57.26
+        Themis 88.27
+        Uranus 64.01
+    credit
+        Ananke 46.35
+        Dione 57.22
+        Eros 24.30
+        Hermes 22.59
+        Hestia 19.54
+        Metis 53.98
+        Mnemosyne 42.96
+        Oceanus 77.98
+        Perses 81.15
+        Themis 18.36
+Apollo:
+    debit
+        Ananke 26.84
+        Artemis 70.16
+        Athena 28.00
+        Cronus 30.85
+        Demeter 111.08
+        Eros 192.75
+        Helios 20.24
+        Hephaestus 79.38
+        Lelantos 94.61
+        Leto 32.33
+        Mnemosyne 72.43
+        Nemesis .87
+        Phanes 94.02
+        Pontus 56.12
+        Tartarus 97.90
+        Thalassa 21.62
+        Thanatos 44.60
+    credit
+        Ananke 37.79
+        Ares 64.26
+        Artemis 13.50
+        Astraeus 14.55
+        Athena 17.92
+        Atlas 94.98
+        Chaos 55.50
+        Chronos 45.24
+        Coeus 67.23
+        Dione 77.37
+        Erebus 86.30
+        Hestia 34.48
+        Iapetus 61.32
+        Nyx 81.48
+        Pallas 77.79
+        Rhea 89.03
+        Selene 11.27
+        Thalassa 97.46
+        Theia 20.93
+Ares:
+    debit
+        Apollo 64.26
+        Artemis 173.57
+        Chronos 40.95
+        Coeus 25.85
+        Cronus 50.44
+        Eos 137.50
+        Gaia 67.79
+        Helios 19.68
+        Hypnos 26.43
+        Mnemosyne 16.63
+        Nyx 62.30
+        Pallas 121.68
+        Tethys 47.93
+    credit
+        Aether 85.18
+        Aion 46.58
+        Asteria 78.76
+        Eos 26.61
+        Eros 38.37
+        Hades 30.67
+        Hemera 103.50
+        Hera 62.37
+        Hypnos 10.61
+        Leto 88.09
+        Menoetius 131.55
+        Metis 73.28
+        Pontus 70.69
+        Tethys 29.70
+Artemis:
+    debit
+        Apollo 13.50
+        Chronos 150.99
+        Coeus 35.21
+        Erebus 86.43
+        Hera 4.31
+        Hyperion 39.11
+        Hypnos 60.73
+        Lelantos 69.18
+        Perses 49.49
+        Tartarus 75.70
+    credit
+        Aphrodite 80.33
+        Apollo 70.16
+        Ares 173.57
+        Chronos 76.90
+        Crius 51.03
+        Cronus 34.86
+        Hades 23.34
+        Hemera 61.42
+        Hermes 27.62
+        Hestia 23.73
+        Hypnos 90.34
+        Metis 93.19
+        Tethys 87.20
+        Thalassa 50.39
+Asteria:
+    debit
+        Achlys 13.94
+        Ares 78.76
+        Asteria 57.50
+        Astraeus 27.41
+        Chaos 71.68
+        Chronos 78.52
+        Demeter 62.64
+        Hades 36.45
+        Hemera 56.17
+        Hera 90.69
+        Hestia 15.13
+        Hyperion 29.25
+        Mnemosyne 80.79
+        Nyx 6.59
+        Phanes 84.73
+        Prometheus 74.08
+        Rhea 49.46
+        Styx 72.17
+        Thanatos 79.81
+    credit
+        Achlys 89.84
+        Asteria 57.50
+        Epimetheus 17.48
+        Metis 3.20
+        Mnemosyne 34.99
+        Nemesis 54.27
+        Pallas 58.49
+        Pontus 38.88
+        Prometheus 66.73
+        Rhea 23.18
+        Selene 8.38
+        Thalassa 49.29
+Astraeus:
+    debit
+        Ananke 91.21
+        Apollo 14.55
+        Coeus 66.46
+        Crius 58.04
+        Dione 93.85
+        Hephaestus 9.07
+        Hermes 48.08
+        Lelantos 18.70
+        Metis 39.52
+        Poseidon 91.00
+        Selene 96.76
+        Tartarus 68.89
+        Tethys 31.97
+        Thanatos 65.43
+        Themis 68.57
+        Uranus 57.05
+    credit
+        Aion 67.60
+        Asteria 27.41
+        Atlas 36.35
+        Cronus 33.61
+        Dionysus 6.52
+        Epimetheus 107.65
+        Eros 61.78
+        Hestia 3.02
+        Hypnos 61.70
+        Iapetus 84.26
+        Menoetius 96.75
+        Pallas 81.38
+        Selene 95.45
+        Thalassa 94.06
+Athena:
+    debit
+        Aether 159.16
+        Apollo 17.92
+        Athena 37.99
+        Atlas 37.55
+        Eos 20.48
+        Hypnos 64.90
+        Metis 12.29
+        Nyx 23.12
+        Perses 58.51
+        Poseidon 52.32
+        Styx 54.17
+        Thanatos 78.98
+    credit
+        Ananke 67.40
+        Apollo 28.00
+        Athena 37.99
+        Atlas 8.60
+        Chronos 80.91
+        Crius 22.27
+        Demeter 42.26
+        Eos 32.85
+        Epimetheus 85.33
+        Hermes 73.06
+        Hypnos 84.70
+        Mnemosyne 35.32
+        Oceanus 30.99
+        Pallas 39.70
+        Phoebe 64.35
+        Tethys 49.68
+        Thalassa 42.31
+        Themis 6.87
+Atlas:
+    debit
+        Apollo 94.98
+        Astraeus 36.35
+        Athena 8.60
+        Atlas 88.06
+        Crius 13.77
+        Cronus 47.43
+        Dione 78.40
+        Dionysus 73.53
+        Epimetheus 81.69
+        Hephaestus 39.67
+        Iapetus 64.03
+        Phanes 41.58
+        Phoebe 67.99
+        Styx 58.59
+        Theia 74.69
+    credit
+        Aion 190.50
+        Athena 37.55
+        Atlas 88.06
+        Chaos 58.65
+        Cronus 45.71
+        Helios 39.12
+        Iapetus 7.08
+        Pallas 84.83
+        Pontus 75.45
+        Poseidon 97.68
+        Prometheus 8.06
+        Rhea 22.51
+Chaos:
+    debit
+        Ananke 94.03
+        Apollo 55.50
+        Atlas 58.65
+        Chronos 78.83
+        Eros 87.98
+        Leto 18.54
+        Menoetius 95.99
+        Pontus 93.13
+        Prometheus 40.89
+        Tethys 57.74
+        Thalassa 10.90
+    credit
+        Aether 39.71
+        Ananke 122.85
+        Asteria 71.68
+        Chronos 65.51
+        Cronus 67.95
+        Eos 91.32
+        Epimetheus 52.54
+        Eros 47.63
+        Hemera 68.64
+        Hermes 53.38
+        Hestia 7.85
+        Iapetus 46.77
+        Nemesis 59.99
+        Phanes 25.48
+        Pontus 66.08
+        Theia 88.43
+Chronos:
+    debit
+        Achlys 81.52
+        Apollo 45.24
+        Artemis 76.90
+        Athena 80.91
+        Chaos 65.51
+        Epimetheus 20.93
+        Hyperion 30.51
+        Hypnos 99.57
+        Tartarus 37.14
+        Theia 51.29
+    credit
+        Ananke 69.77
+        Ares 40.95
+        Artemis 150.99
+        Asteria 78.52
+        Chaos 78.83
+        Dione 84.60
+        Gaia 90.62
+        Helios 36.98
+        Metis 121.11
+        Phanes 80.73
+        Poseidon 62.16
+        Prometheus 67.91
+        Tethys 95.29
+Coeus:
+    debit
+        Apollo 67.23
+        Epimetheus 35.02
+        Gaia 52.35
+        Hephaestus 25.48
+        Iapetus 32.97
+        Lelantos 40.32
+        Oceanus 63.17
+        Selene 47.55
+        Styx 80.74
+        Thalassa 77.49
+    credit
+        Achlys 150.11
+        Ares 25.85
+        Artemis 35.21
+        Astraeus 66.46
+        Crius 118.56
+        Leto 84.22
+        Mnemosyne 80.41
+        Nemesis 31.45
+        Perses 8.31
+        Pontus 162.35
+        Selene 36.03
+        Styx 60.93
+        Tethys 37.27
+Crius:
+    debit
+        Aion 18.95
+        Ananke .25
+        Artemis 51.03
+        Athena 22.27
+        Coeus 118.56
+        Cronus .04
+        Demeter 56.98
+        Gaia 64.07
+        Hades 56.69
+        Hypnos 74.84
+        Leto 33.97
+        Oceanus 96.50
+        Pontus 14.37
+        Poseidon 3.65
+        Rhea 3.28
+        Thalassa 38.80
+        Theia 65.49
+    credit
+        Astraeus 58.04
+        Atlas 13.77
+        Demeter 15.13
+        Dionysus 25.00
+        Hestia 30.52
+        Metis 28.05
+        Nyx 30.95
+        Pallas 35.93
+        Phanes 26.25
+        Pontus 5.94
+        Tethys 1.58
+Cronus:
+    debit
+        Ananke 30.11
+        Artemis 34.86
+        Astraeus 33.61
+        Atlas 45.71
+        Chaos 67.95
+        Demeter 84.96
+        Epimetheus 95.75
+        Hades 78.67
+        Hemera 24.51
+        Hephaestus 85.57
+        Nyx 3.43
+        Perses 62.12
+        Phanes 24.78
+        Phoebe 21.70
+        Pontus 90.84
+        Prometheus 75.97
+        Tethys 28.51
+        Theia 41.88
+        Themis 21.22
+    credit
+        Aether 89.87
+        Apollo 30.85
+        Ares 50.44
+        Atlas 47.43
+        Crius .04
+        Dione 30.18
+        Hyperion 18.68
+        Leto 6.10
+        Mnemosyne 70.20
+        Nemesis 8.83
+        Perses 71.78
+        Prometheus 83.83
+        Theia 91.33
+Demeter:
+    debit
+        Aether 43.18
+        Athena 42.26
+        Crius 15.13
+        Eos 69.86
+        Hestia 4.91
+        Lelantos 64.39
+        Selene 40.55
+    credit
+        Apollo 111.08
+        Asteria 62.64
+        Crius 56.98
+        Cronus 84.96
+        Eos 84.26
+        Gaia 63.63
+        Hemera 112.99
+        Hermes 21.55
+        Hestia 157.95
+        Hypnos 3.25
+        Lelantos .51
+        Metis 31.39
+        Nemesis 79.92
+        Phanes 47.29
+Dione:
+    debit
+        Aphrodite 57.22
+        Apollo 77.37
+        Chronos 84.60
+        Cronus 30.18
+        Gaia 57.09
+        Helios 33.14
+        Hestia 76.84
+        Hypnos 74.34
+        Metis 6.19
+        Thanatos 97.55
+    credit
+        Achlys 88.25
+        Astraeus 93.85
+        Atlas 78.40
+        Erebus 12.23
+        Eros 38.89
+        Gaia 60.43
+        Helios 39.34
+        Iapetus 28.62
+        Oceanus 85.89
+        Prometheus 83.35
+        Selene 10.91
+        Thanatos 13.63
+        Uranus 73.24
+Dionysus:
+    debit
+        Achlys 86.81
+        Astraeus 6.52
+        Crius 25.00
+        Lelantos 82.56
+        Metis 119.53
+        Perses 36.36
+        Pontus 44.01
+        Poseidon 69.46
+        Prometheus 44.85
+        Rhea 73.16
+        Styx 18.68
+        Theia 17.30
+    credit
+        Aether 226.41
+        Atlas 73.53
+        Erebus 96.66
+        Helios 67.24
+        Metis 20.93
+        Mnemosyne 47.79
+        Pontus 19.47
+        Poseidon 43.17
+        Prometheus 41.32
+Eos:
+    debit
+        Achlys 16.84
+        Aion 63.53
+        Ares 26.61
+        Athena 32.85
+        Chaos 91.32
+        Demeter 84.26
+        Hephaestus 8.79
+        Hermes 96.11
+        Metis 51.59
+        Styx 128.17
+        Thanatos 12.29
+        Theia 7.93
+        Themis 15.61
+    credit
+        Ares 137.50
+        Athena 20.48
+        Demeter 69.86
+        Epimetheus 95.42
+        Gaia 18.84
+        Hades 86.72
+        Hera 84.68
+        Hestia 141.11
+        Hypnos 4.92
+        Leto 14.66
+        Pallas 11.64
+        Phanes 18.11
+        Phoebe 166.91
+        Rhea 1.56
+        Selene 8.66
+Epimetheus:
+    debit
+        Ananke 9.79
+        Asteria 17.48
+        Astraeus 107.65
+        Athena 85.33
+        Chaos 52.54
+        Eos 95.42
+        Erebus 4.40
+        Eros 78.73
+        Helios 81.65
+        Hyperion 89.01
+        Hypnos 64.08
+        Oceanus 92.27
+        Perses 90.34
+        Phanes 31.87
+        Phoebe 52.01
+        Prometheus 98.19
+        Rhea 50.92
+        Tartarus 3.49
+        Thanatos 3.88
+        Uranus 76.19
+    credit
+        Ananke 24.49
+        Atlas 81.69
+        Chronos 20.93
+        Coeus 35.02
+        Cronus 95.75
+        Erebus 85.93
+        Eros 99.95
+        Hera 70.70
+        Leto 18.35
+        Oceanus 66.22
+        Phoebe 61.40
+        Pontus 68.70
+        Theia 50.82
+Erebus:
+    debit
+        Achlys 84.52
+        Apollo 86.30
+        Dione 12.23
+        Dionysus 96.66
+        Epimetheus 85.93
+        Helios 5.10
+        Hephaestus 138.53
+        Hermes 96.47
+        Hyperion 41.15
+        Metis 26.08
+        Oceanus 43.84
+        Phanes 32.77
+        Phoebe 75.84
+        Poseidon 96.13
+        Prometheus 33.54
+        Rhea 32.26
+        Selene 31.53
+    credit
+        Aether 35.27
+        Artemis 86.43
+        Epimetheus 4.40
+        Helios 22.33
+        Hephaestus 78.86
+        Hermes 95.32
+        Leto 97.58
+        Menoetius 2.66
+        Pallas 13.57
+        Perses 112.36
+        Phanes 83.71
+        Poseidon 102.68
+        Prometheus 7.52
+        Tethys 82.52
+        Uranus 6.57
+Eros:
+    debit
+        Ananke 37.24
+        Aphrodite 24.30
+        Ares 38.37
+        Astraeus 61.78
+        Chaos 47.63
+        Dione 38.89
+        Epimetheus 99.95
+        Hestia 42.52
+        Iapetus 8.25
+        Mnemosyne 51.72
+        Pallas 1.88
+        Perses 30.45
+        Prometheus 13.80
+        Styx 97.85
+        Uranus 64.10
+    credit
+        Apollo 192.75
+        Chaos 87.98
+        Epimetheus 78.73
+        Hades 50.41
+        Hemera 27.29
+        Hypnos 47.54
+        Leto 68.40
+        Oceanus 95.86
+        Phoebe 96.82
+        Prometheus 4.51
+        Rhea 21.41
+Gaia:
+    debit
+        Achlys 39.65
+        Chronos 90.62
+        Demeter 63.63
+        Dione 60.43
+        Eos 18.84
+        Hermes 111.37
+        Hestia 16.97
+        Pallas 64.33
+    credit
+        Aether 77.61
+        Aion 89.64
+        Ares 67.79
+        Coeus 52.35
+        Crius 64.07
+        Dione 57.09
+        Hemera 21.55
+        Hestia 23.30
+        Lelantos 173.68
+        Leto 8.51
+        Nemesis 12.66
+        Phoebe 28.81
+        Poseidon 7.97
+        Prometheus 66.58
+        Selene 86.89
+Hades:
+    debit
+        Aion 94.22
+        Ares 30.67
+        Artemis 23.34
+        Eos 86.72
+        Eros 50.41
+        Iapetus 13.24
+        Lelantos 76.03
+        Nyx 42.05
+        Phanes 8.15
+        Pontus 46.08
+        Tethys .33
+        Thalassa 91.87
+    credit
+        Achlys 88.44
+        Ananke 89.11
+        Asteria 36.45
+        Crius 56.69
+        Cronus 78.67
+        Hestia 96.38
+        Hypnos 4.75
+        Nyx 87.09
+        Perses 5.73
+        Phanes 68.19
+        Phoebe 50.45
+        Rhea 53.13
+        Selene 42.52
+        Styx 121.99
+        Tartarus 3.57
+        Tethys 79.71
+        Themis 78.99
+Helios:
+    debit
+        Aion 2.83
+        Ananke 144.17
+        Atlas 39.12
+        Chronos 36.98
+        Dione 39.34
+        Dionysus 67.24
+        Erebus 22.33
+        Hephaestus 3.83
+        Hermes 1.45
+        Iapetus 71.80
+        Nyx 14.27
+        Pallas 45.53
+        Phanes 4.38
+        Tartarus 8.33
+        Thanatos 91.15
+        Uranus 43.31
+    credit
+        Aion 80.18
+        Apollo 20.24
+        Ares 19.68
+        Dione 33.14
+        Epimetheus 81.65
+        Erebus 5.10
+        Hephaestus 4.90
+        Menoetius 97.69
+        Metis 13.49
+        Nyx 92.54
+        Phoebe 2.33
+        Rhea 64.48
+        Themis 31.69
+Hemera:
+    debit
+        Aether 42.75
+        Aion 43.97
+        Ares 103.50
+        Artemis 61.42
+        Chaos 68.64
+        Demeter 112.99
+        Eros 27.29
+        Gaia 21.55
+        Hephaestus 81.91
+        Hypnos 19.02
+        Oceanus 50.04
+        Poseidon 159.13
+        Tethys 24.46
+    credit
+        Achlys 55.89
+        Aphrodite 90.33
+        Asteria 56.17
+        Cronus 24.51
+        Metis 83.71
+        Nemesis 9.48
+        Nyx 43.81
+        Poseidon 88.84
+        Styx 123.03
+        Uranus 73.86
+Hephaestus:
+    debit
+        Ananke 28.96
+        Erebus 78.86
+        Helios 4.90
+        Hyperion 20.50
+        Iapetus 52.30
+        Lelantos 31.70
+        Pallas 73.13
+        Prometheus 5.49
+        Rhea 86.88
+        Thanatos 56.64
+        Themis 84.82
+    credit
+        Aether 77.68
+        Apollo 79.38
+        Astraeus 9.07
+        Atlas 39.67
+        Coeus 25.48
+        Cronus 85.57
+        Eos 8.79
+        Erebus 138.53
+        Helios 3.83
+        Hemera 81.91
+        Hera 21.61
+        Hyperion 68.33
+        Hypnos 15.52
+        Leto 61.77
+        Mnemosyne 49.83
+        Phanes 58.07
+        Selene 33.48
+        Tethys 94.53
+        Uranus 18.90
+Hera:
+    debit
+        Ares 62.37
+        Eos 84.68
+        Epimetheus 70.70
+        Hephaestus 21.61
+        Hyperion 36.01
+        Iapetus 25.41
+        Metis 49.15
+        Oceanus 29.85
+        Perses 53.71
+        Selene 19.20
+        Thanatos 54.31
+    credit
+        Aion 108.00
+        Aphrodite 54.87
+        Artemis 4.31
+        Asteria 90.69
+        Rhea 63.60
+        Styx 50.34
+        Tethys 30.34
+        Thanatos 129.76
+Hermes:
+    debit
+        Achlys 35.46
+        Aphrodite 22.59
+        Artemis 27.62
+        Athena 73.06
+        Chaos 53.38
+        Demeter 21.55
+        Erebus 95.32
+        Hyperion 94.32
+        Lelantos 52.13
+        Styx 125.29
+    credit
+        Astraeus 48.08
+        Eos 96.11
+        Erebus 96.47
+        Gaia 111.37
+        Helios 1.45
+        Hyperion 57.21
+        Metis 23.42
+        Mnemosyne 119.90
+        Nyx 55.68
+        Pallas 77.32
+        Pontus 86.22
+        Styx 72.53
+        Tartarus 38.43
+        Thanatos 102.69
+        Uranus 33.74
+Hestia:
+    debit
+        Aphrodite 19.54
+        Apollo 34.48
+        Artemis 23.73
+        Astraeus 3.02
+        Chaos 7.85
+        Crius 30.52
+        Demeter 157.95
+        Eos 141.11
+        Gaia 23.30
+        Hades 96.38
+        Metis 2.19
+        Nemesis 19.10
+        Oceanus 43.64
+        Tethys 47.88
+        Uranus 91.10
+    credit
+        Achlys 19.46
+        Aion 63.58
+        Asteria 15.13
+        Demeter 4.91
+        Dione 76.84
+        Eros 42.52
+        Gaia 16.97
+        Lelantos 35.56
+        Leto 36.00
+        Nyx 85.70
+        Pontus 31.42
+        Prometheus 59.17
+        Tethys 95.45
+        Themis .31
+Hyperion:
+    debit
+        Cronus 18.68
+        Hephaestus 68.33
+        Hermes 57.21
+        Lelantos 31.55
+        Menoetius 46.72
+        Metis 103.60
+        Phanes 51.78
+        Prometheus 21.62
+        Selene 97.95
+        Styx 50.14
+    credit
+        Aether 73.52
+        Artemis 39.11
+        Asteria 29.25
+        Chronos 30.51
+        Epimetheus 89.01
+        Erebus 41.15
+        Hephaestus 20.50
+        Hera 36.01
+        Hermes 94.32
+        Perses 54.13
+        Rhea 8.99
+        Thanatos 92.08
+Hypnos:
+    debit
+        Aether 60.19
+        Aion 53.45
+        Ananke 146.13
+        Ares 10.61
+        Artemis 90.34
+        Astraeus 61.70
+        Athena 84.70
+        Demeter 3.25
+        Eos 4.92
+        Eros 47.54
+        Hades 4.75
+        Hephaestus 15.52
+        Nyx 42.74
+        Oceanus 19.14
+        Perses 82.57
+        Styx 12.80
+        Theia 10.41
+        Themis 84.70
+    credit
+        Achlys 36.25
+        Ares 26.43
+        Artemis 60.73
+        Athena 64.90
+        Chronos 99.57
+        Crius 74.84
+        Dione 74.34
+        Epimetheus 64.08
+        Hemera 19.02
+        Nemesis 35.09
+        Phoebe 56.23
+        Tartarus 66.38
+        Tethys 25.34
+        Thalassa 9.65
+        Themis 46.79
+        Uranus 83.10
+Iapetus:
+    debit
+        Ananke 90.67
+        Apollo 61.32
+        Astraeus 84.26
+        Atlas 7.08
+        Chaos 46.77
+        Dione 28.62
+        Iapetus 4.81
+        Metis 76.47
+        Mnemosyne 60.00
+        Oceanus 109.18
+        Phanes 25.39
+        Poseidon 13.89
+        Prometheus 80.53
+    credit
+        Achlys 32.80
+        Atlas 64.03
+        Coeus 32.97
+        Eros 8.25
+        Hades 13.24
+        Helios 71.80
+        Hephaestus 52.30
+        Hera 25.41
+        Iapetus 4.81
+        Lelantos 162.19
+        Phoebe 32.12
+        Selene 96.67
+        Thalassa 80.89
+        Theia 87.31
+        Uranus 19.37
+Lelantos:
+    debit
+        Demeter .51
+        Gaia 173.68
+        Hestia 35.56
+        Iapetus 162.19
+        Lelantos 54.58
+        Menoetius 78.55
+        Perses 60.71
+    credit
+        Aion 53.86
+        Aphrodite 81.27
+        Apollo 94.61
+        Artemis 69.18
+        Astraeus 18.70
+        Coeus 40.32
+        Demeter 64.39
+        Dionysus 82.56
+        Hades 76.03
+        Hephaestus 31.70
+        Hermes 52.13
+        Hyperion 31.55
+        Lelantos 54.58
+        Mnemosyne 119.44
+        Oceanus 39.66
+        Phoebe 42.19
+        Poseidon 45.17
+        Selene 9.16
+        Styx 88.81
+        Thanatos 86.93
+Leto:
+    debit
+        Aion 11.77
+        Ares 88.09
+        Coeus 84.22
+        Cronus 6.10
+        Eos 14.66
+        Epimetheus 18.35
+        Erebus 97.58
+        Eros 68.40
+        Gaia 8.51
+        Hephaestus 61.77
+        Hestia 36.00
+        Thalassa 11.54
+    credit
+        Achlys 36.02
+        Ananke 76.72
+        Apollo 32.33
+        Chaos 18.54
+        Crius 33.97
+        Mnemosyne 42.17
+        Pontus 92.06
+        Thalassa 56.98
+        Uranus 22.05
+Menoetius:
+    debit
+        Aether 54.14
+        Aion 29.16
+        Ares 131.55
+        Astraeus 96.75
+        Erebus 2.66
+        Helios 97.69
+        Nyx 50.32
+        Oceanus 28.72
+        Pallas 51.67
+        Prometheus 29.77
+        Rhea 69.97
+    credit
+        Aether 12.55
+        Aion 43.22
+        Chaos 95.99
+        Hyperion 46.72
+        Lelantos 78.55
+        Pallas 59.94
+        Phoebe 86.24
+        Pontus 45.97
+        Styx 40.51
+        Tartarus 52.16
+        Thanatos 68.10
+        Themis 12.94
+Metis:
+    debit
+        Achlys 70.55
+        Aphrodite 53.98
+        Ares 73.28
+        Artemis 93.19
+        Asteria 3.20
+        Chronos 121.11
+        Crius 28.05
+        Demeter 31.39
+        Dionysus 20.93
+        Helios 13.49
+        Hemera 83.71
+        Hermes 23.42
+        Nemesis 98.49
+        Phanes 62.17
+        Pontus 57.40
+    credit
+        Achlys 9.23
+        Ananke 90.45
+        Astraeus 39.52
+        Athena 12.29
+        Dione 6.19
+        Dionysus 119.53
+        Eos 51.59
+        Erebus 26.08
+        Hera 49.15
+        Hestia 2.19
+        Hyperion 103.60
+        Iapetus 76.47
+        Thanatos 6.39
+        Themis 85.15
+Mnemosyne:
+    debit
+        Achlys 47.19
+        Aphrodite 42.96
+        Asteria 34.99
+        Athena 35.32
+        Coeus 80.41
+        Cronus 70.20
+        Dionysus 47.79
+        Hephaestus 49.83
+        Hermes 119.90
+        Lelantos 119.44
+        Leto 42.17
+        Mnemosyne 51.75
+        Thanatos 96.72
+    credit
+        Apollo 72.43
+        Ares 16.63
+        Asteria 80.79
+        Eros 51.72
+        Iapetus 60.00
+        Mnemosyne 51.75
+        Perses .12
+        Prometheus 37.34
+        Selene 8.02
+        Tethys 86.40
+        Thanatos 97.08
+        Theia 37.45
+Nemesis:
+    debit
+        Asteria 54.27
+        Chaos 59.99
+        Coeus 31.45
+        Cronus 8.83
+        Demeter 79.92
+        Gaia 12.66
+        Hemera 9.48
+        Hypnos 35.09
+        Pontus 3.02
+        Rhea 59.89
+        Thanatos 33.73
+        Uranus 70.89
+    credit
+        Aether 79.38
+        Aphrodite 108.86
+        Apollo .87
+        Hestia 19.10
+        Metis 98.49
+        Styx 44.89
+        Themis 50.75
+        Uranus 64.90
+Nyx:
+    debit
+        Apollo 81.48
+        Crius 30.95
+        Hades 87.09
+        Helios 92.54
+        Hemera 43.81
+        Hermes 55.68
+        Hestia 85.70
+        Oceanus 52.66
+        Phoebe 96.92
+        Pontus 58.85
+        Selene 64.00
+        Styx 3.29
+        Uranus 110.68
+    credit
+        Ananke 64.09
+        Ares 62.30
+        Asteria 6.59
+        Athena 23.12
+        Cronus 3.43
+        Hades 42.05
+        Helios 14.27
+        Hypnos 42.74
+        Menoetius 50.32
+        Selene 95.20
+        Thanatos 13.89
+        Themis 76.52
+Oceanus:
+    debit
+        Aphrodite 77.98
+        Athena 30.99
+        Dione 85.89
+        Epimetheus 66.22
+        Eros 95.86
+        Lelantos 39.66
+        Perses 74.96
+        Prometheus 9.00
+        Selene 68.41
+        Tethys 22.53
+    credit
+        Coeus 63.17
+        Crius 96.50
+        Epimetheus 92.27
+        Erebus 43.84
+        Hemera 50.04
+        Hera 29.85
+        Hestia 43.64
+        Hypnos 19.14
+        Iapetus 109.18
+        Menoetius 28.72
+        Nyx 52.66
+        Prometheus 32.73
+        Rhea 182.60
+Pallas:
+    debit
+        Achlys 96.20
+        Apollo 77.79
+        Asteria 58.49
+        Astraeus 81.38
+        Athena 39.70
+        Atlas 84.83
+        Crius 35.93
+        Eos 11.64
+        Erebus 13.57
+        Hermes 77.32
+        Menoetius 59.94
+        Pontus 71.58
+        Poseidon 42.23
+        Thanatos 52.85
+        Themis 44.03
+        Uranus 104.30
+    credit
+        Ares 121.68
+        Eros 1.88
+        Gaia 64.33
+        Helios 45.53
+        Hephaestus 73.13
+        Menoetius 51.67
+        Prometheus 90.16
+Perses:
+    debit
+        Aion 25.70
+        Aphrodite 81.15
+        Coeus 8.31
+        Cronus 71.78
+        Erebus 112.36
+        Hades 5.73
+        Hyperion 54.13
+        Mnemosyne .12
+        Pontus 113.46
+        Tethys 66.77
+        Thalassa 56.42
+    credit
+        Aion 31.02
+        Artemis 49.49
+        Athena 58.51
+        Cronus 62.12
+        Dionysus 36.36
+        Epimetheus 90.34
+        Eros 30.45
+        Hera 53.71
+        Hypnos 82.57
+        Lelantos 60.71
+        Oceanus 74.96
+        Phanes 4.35
+        Tartarus 21.19
+Phanes:
+    debit
+        Aion 71.93
+        Ananke 95.56
+        Chaos 25.48
+        Chronos 80.73
+        Crius 26.25
+        Demeter 47.29
+        Eos 18.11
+        Erebus 83.71
+        Hades 68.19
+        Hephaestus 58.07
+        Perses 4.35
+        Phoebe 49.00
+        Poseidon 29.27
+        Rhea 99.02
+        Selene 1.31
+        Tartarus 10.12
+    credit
+        Aether 64.80
+        Aphrodite 163.77
+        Apollo 94.02
+        Asteria 84.73
+        Atlas 41.58
+        Cronus 24.78
+        Epimetheus 31.87
+        Erebus 32.77
+        Hades 8.15
+        Helios 4.38
+        Hyperion 51.78
+        Iapetus 25.39
+        Metis 62.17
+        Selene 82.90
+Phoebe:
+    debit
+        Ananke 5.78
+        Athena 64.35
+        Eos 166.91
+        Epimetheus 61.40
+        Eros 96.82
+        Gaia 28.81
+        Hades 50.45
+        Helios 2.33
+        Hypnos 56.23
+        Iapetus 32.12
+        Lelantos 42.19
+        Menoetius 86.24
+        Styx 90.58
+        Theia 74.27
+        Themis 7.39
+        Uranus 41.87
+    credit
+        Atlas 67.99
+        Cronus 21.70
+        Epimetheus 52.01
+        Erebus 75.84
+        Nyx 96.92
+        Phanes 49.00
+        Poseidon 99.16
+        Prometheus 8.42
+        Styx 48.74
+        Tartarus 9.59
+Pontus:
+    debit
+        Aether 55.36
+        Ares 70.69
+        Asteria 38.88
+        Atlas 75.45
+        Chaos 66.08
+        Coeus 162.35
+        Crius 5.94
+        Dionysus 19.47
+        Epimetheus 68.70
+        Hermes 86.22
+        Hestia 31.42
+        Leto 92.06
+        Menoetius 45.97
+        Thanatos 77.81
+    credit
+        Aion 8.06
+        Apollo 56.12
+        Chaos 93.13
+        Crius 14.37
+        Cronus 90.84
+        Dionysus 44.01
+        Hades 46.08
+        Metis 57.40
+        Nemesis 3.02
+        Nyx 58.85
+        Pallas 71.58
+        Perses 113.46
+        Poseidon 94.24
+        Themis 10.65
+        Uranus 76.23
+Poseidon:
+    debit
+        Achlys 7.96
+        Aether 45.72
+        Atlas 97.68
+        Chronos 62.16
+        Dionysus 43.17
+        Erebus 102.68
+        Gaia 7.97
+        Hemera 88.84
+        Lelantos 45.17
+        Phoebe 99.16
+        Pontus 94.24
+        Poseidon 99.50
+        Prometheus 29.36
+        Tartarus 69.11
+        Themis 49.70
+    credit
+        Astraeus 91.00
+        Athena 52.32
+        Crius 3.65
+        Dionysus 69.46
+        Erebus 96.13
+        Hemera 159.13
+        Iapetus 13.89
+        Pallas 42.23
+        Phanes 29.27
+        Poseidon 99.50
+        Selene 97.39
+        Uranus 112.21
+Prometheus:
+    debit
+        Ananke 82.22
+        Asteria 66.73
+        Atlas 8.06
+        Chronos 67.91
+        Cronus 83.83
+        Dione 83.35
+        Dionysus 41.32
+        Erebus 7.52
+        Eros 4.51
+        Gaia 66.58
+        Hestia 59.17
+        Mnemosyne 37.34
+        Oceanus 32.73
+        Pallas 90.16
+        Phoebe 8.42
+        Theia 82.93
+    credit
+        Aether 73.91
+        Aion 49.55
+        Aphrodite 57.26
+        Asteria 74.08
+        Chaos 40.89
+        Cronus 75.97
+        Dionysus 44.85
+        Epimetheus 98.19
+        Erebus 33.54
+        Eros 13.80
+        Hephaestus 5.49
+        Hyperion 21.62
+        Iapetus 80.53
+        Menoetius 29.77
+        Oceanus 9.00
+        Poseidon 29.36
+        Thalassa 54.34
+        Theia 104.08
+Rhea:
+    debit
+        Aether 49.21
+        Apollo 89.03
+        Asteria 23.18
+        Atlas 22.51
+        Eos 1.56
+        Eros 21.41
+        Hades 53.13
+        Helios 64.48
+        Hera 63.60
+        Hyperion 8.99
+        Oceanus 182.60
+    credit
+        Achlys 96.26
+        Aion 29.92
+        Asteria 49.46
+        Crius 3.28
+        Dionysus 73.16
+        Epimetheus 50.92
+        Erebus 32.26
+        Hephaestus 86.88
+        Menoetius 69.97
+        Nemesis 59.89
+        Phanes 99.02
+        Tartarus 73.25
+        Thanatos 19.65
+Selene:
+    debit
+        Achlys 44.66
+        Apollo 11.27
+        Asteria 8.38
+        Astraeus 95.45
+        Coeus 36.03
+        Dione 10.91
+        Eos 8.66
+        Gaia 86.89
+        Hades 42.52
+        Hephaestus 33.48
+        Iapetus 96.67
+        Lelantos 9.16
+        Mnemosyne 8.02
+        Nyx 95.20
+        Phanes 82.90
+        Poseidon 97.39
+        Thalassa 5.78
+        Themis 98.81
+    credit
+        Astraeus 96.76
+        Coeus 47.55
+        Demeter 40.55
+        Erebus 31.53
+        Hera 19.20
+        Hyperion 97.95
+        Nyx 64.00
+        Oceanus 68.41
+        Phanes 1.31
+        Styx 7.35
+        Thalassa 80.29
+        Theia 74.06
+Styx:
+    debit
+        Achlys 14.35
+        Coeus 60.93
+        Hades 121.99
+        Hemera 123.03
+        Hera 50.34
+        Hermes 72.53
+        Lelantos 88.81
+        Menoetius 40.51
+        Nemesis 44.89
+        Phoebe 48.74
+        Selene 7.35
+        Thalassa 91.35
+    credit
+        Asteria 72.17
+        Athena 54.17
+        Atlas 58.59
+        Coeus 80.74
+        Dionysus 18.68
+        Eos 128.17
+        Eros 97.85
+        Hermes 125.29
+        Hyperion 50.14
+        Hypnos 12.80
+        Nyx 3.29
+        Phoebe 90.58
+        Tartarus 7.75
+        Thalassa 64.37
+Tartarus:
+    debit
+        Ananke 91.14
+        Hades 3.57
+        Hermes 38.43
+        Hypnos 66.38
+        Menoetius 52.16
+        Perses 21.19
+        Phoebe 9.59
+        Rhea 73.25
+        Styx 7.75
+        Tartarus 73.63
+    credit
+        Ananke 88.32
+        Apollo 97.90
+        Artemis 75.70
+        Astraeus 68.89
+        Chronos 37.14
+        Epimetheus 3.49
+        Helios 8.33
+        Phanes 10.12
+        Poseidon 69.11
+        Tartarus 73.63
+Tethys:
+    debit
+        Aether 26.81
+        Aion 20.32
+        Ares 29.70
+        Artemis 87.20
+        Athena 49.68
+        Chronos 95.29
+        Coeus 37.27
+        Crius 1.58
+        Erebus 82.52
+        Hades 79.71
+        Hephaestus 94.53
+        Hera 30.34
+        Hestia 95.45
+        Hypnos 25.34
+        Mnemosyne 86.40
+    credit
+        Aion 28.75
+        Ares 47.93
+        Astraeus 31.97
+        Chaos 57.74
+        Cronus 28.51
+        Hades .33
+        Hemera 24.46
+        Hestia 47.88
+        Oceanus 22.53
+        Perses 66.77
+        Thalassa 133.84
+Thalassa:
+    debit
+        Aether 34.13
+        Ananke 186.44
+        Apollo 97.46
+        Artemis 50.39
+        Asteria 49.29
+        Astraeus 94.06
+        Athena 42.31
+        Hypnos 9.65
+        Iapetus 80.89
+        Leto 56.98
+        Prometheus 54.34
+        Selene 80.29
+        Styx 64.37
+        Tethys 133.84
+        Themis 61.75
+    credit
+        Apollo 21.62
+        Chaos 10.90
+        Coeus 77.49
+        Crius 38.80
+        Hades 91.87
+        Leto 11.54
+        Perses 56.42
+        Selene 5.78
+        Styx 91.35
+Thanatos:
+    debit
+        Achlys 85.29
+        Ananke 66.97
+        Dione 13.63
+        Hera 129.76
+        Hermes 102.69
+        Hyperion 92.08
+        Lelantos 86.93
+        Menoetius 68.10
+        Metis 6.39
+        Mnemosyne 97.08
+        Nyx 13.89
+        Rhea 19.65
+    credit
+        Ananke 5.15
+        Apollo 44.60
+        Asteria 79.81
+        Astraeus 65.43
+        Athena 78.98
+        Dione 97.55
+        Eos 12.29
+        Epimetheus 3.88
+        Helios 91.15
+        Hephaestus 56.64
+        Hera 54.31
+        Mnemosyne 96.72
+        Nemesis 33.73
+        Pallas 52.85
+        Pontus 77.81
+Theia:
+    debit
+        Ananke 78.96
+        Apollo 20.93
+        Chaos 88.43
+        Cronus 91.33
+        Epimetheus 50.82
+        Iapetus 87.31
+        Mnemosyne 37.45
+        Prometheus 104.08
+        Selene 74.06
+        Theia 47.92
+    credit
+        Atlas 74.69
+        Chronos 51.29
+        Crius 65.49
+        Cronus 41.88
+        Dionysus 17.30
+        Eos 7.93
+        Hypnos 10.41
+        Phoebe 74.27
+        Prometheus 82.93
+        Theia 47.92
+Themis:
+    debit
+        Aether 73.19
+        Ananke 41.85
+        Aphrodite 18.36
+        Athena 6.87
+        Hades 78.99
+        Helios 31.69
+        Hestia .31
+        Hypnos 46.79
+        Menoetius 12.94
+        Metis 85.15
+        Nemesis 50.75
+        Nyx 76.52
+        Pontus 10.65
+    credit
+        Aphrodite 88.27
+        Astraeus 68.57
+        Cronus 21.22
+        Eos 15.61
+        Hephaestus 84.82
+        Hypnos 84.70
+        Pallas 44.03
+        Phoebe 7.39
+        Poseidon 49.70
+        Selene 98.81
+        Thalassa 61.75
+        Uranus 99.98
+Uranus:
+    debit
+        Aion 77.07
+        Dione 73.24
+        Erebus 6.57
+        Hemera 73.86
+        Hephaestus 18.90
+        Hermes 33.74
+        Hypnos 83.10
+        Iapetus 19.37
+        Leto 22.05
+        Nemesis 64.90
+        Pontus 76.23
+        Poseidon 112.21
+        Themis 99.98
+    credit
+        Achlys 30.91
+        Aphrodite 64.01
+        Astraeus 57.05
+        Epimetheus 76.19
+        Eros 64.10
+        Helios 43.31
+        Hestia 91.10
+        Nemesis 70.89
+        Nyx 110.68
+        Pallas 104.30
+        Phoebe 41.87
+
+Net debit:  44339.25
+Net credit: 44339.25

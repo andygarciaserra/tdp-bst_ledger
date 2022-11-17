@@ -38,12 +38,12 @@ program main
                 end if
 
             end block
-
             
         else
             print '(a,a,a)',"Wrong transaction '",trim( transaction ),"'."
         end if
     end do
 
-    call Print_BST(root)
+    call Print_All(root)
+    call Destroy_BST(root)
 end program main

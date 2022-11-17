@@ -1,0 +1,10 @@
+Jupiter has been added.
+Wrong transaction 'took'.
+Jupiter:
+    debit
+      Jupiter 10.00
+    credit
+      Jupiter 10.00
+
+Net debit:  10.00
+Net credit: 10.00
