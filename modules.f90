@@ -19,7 +19,36 @@ module modules
 
 contains
 
-    ! Insert element in the credit or debit linked to node lists
+    ! Printing BST
+    recursive subroutine Print_BST(root)
+        type(a_tree_node), pointer, intent(in)  :: root
+
+        if(associated(root)) then
+            call Print_BST(root%left)
+            print '(a,a)', root%name, ':'
+            if(associated(root%debit)) then
+                print '(a)', '    debit'
+                call Print_List(root%debit)
+            end if
+            if(associated(root%credit)) then
+                print '(a)', '    credit'
+                call Print_List(root%credit)
+            end if
+            call Print_BST(root%right)
+        end if
+    end subroutine Print_BST
+
+    ! Printing a List
+    recursive subroutine Print_List(head)
+        type(a_list_item), pointer, intent(in)  :: head
+
+        if(associated(head)) then
+            print '(a,a,a,f0.2)', '       ', head%deity%name, ' ', head%amount 
+            call Print_List(head%next)
+        end if
+    end subroutine Print_List
+
+    ! Inserting element in the credit or debit linked to node lists
     recursive subroutine Insert_in_List(head, amount, secondNode)    
         type(a_list_item), pointer, intent(in out)  :: head
         real(kind=8), intent(in)                    :: amount
@@ -41,6 +70,7 @@ contains
         end if
     end subroutine Insert_in_List
 
+    ! Finding the node of a given Deity given string name
     recursive function Find_Node(root, name) result(node)
         character(len=:), allocatable, intent(in)   :: name
         type(a_tree_node), pointer, intent(in)      :: root
@@ -58,7 +88,7 @@ contains
         end if
     end function Find_Node
 
-
+    ! Checking if a Deity is already in the BST, if not, adding it
     recursive subroutine Insert_Deity(node, name)
         type(a_tree_node), pointer, intent(in out)  :: node
         character (len=:), allocatable, intent(in)  :: name 
@@ -74,7 +104,7 @@ contains
         end if
     end subroutine Insert_Deity
 
-    ! Insert Credit element to a Deity list
+    ! Inserting Credit element to a Deity list
     recursive subroutine Insert_Credit(root, Deity1, Deity2, amount)
         type(a_tree_node), pointer, intent(in out)  :: root
         character (len=:), allocatable, intent(in)  :: Deity1
@@ -88,7 +118,7 @@ contains
         call Insert_in_List(firstNode%credit, amount, secondNode)
     end subroutine Insert_Credit
 
-    ! Insert Debit element to a Deity list
+    ! Inserting Debit element to a Deity list
     recursive subroutine Insert_Debit(root, Deity1, Deity2, amount)
         type(a_tree_node), pointer, intent(in out)  :: root
         character (len=:), allocatable, intent(in)  :: Deity1

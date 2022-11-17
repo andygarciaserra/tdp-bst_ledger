@@ -2,12 +2,12 @@ program main
     use :: modules
     implicit none
 
-    integer,    parameter   :: LENGTH = 20
-    integer                 :: int
+    integer,    parameter   :: LENGTH = 15
+    integer                 :: int          ! Takes account of read's input
 
     character(len=LENGTH)   :: firstDeity
     character(len=LENGTH)   :: transaction
-    real(kind=8)            :: amount       !kind=8 for necessary precision in net results.
+    real(kind=8)            :: amount       ! kind=8 for necessary precision in net results
     character(len=LENGTH)   :: preposition
     character(len=LENGTH)   :: secondDeity
 
@@ -15,7 +15,7 @@ program main
     
     do
         read ( *, *, iostat = int ) firstDeity, transaction, amount, preposition, secondDeity
-        if ( int < 0 ) exit        !iostat is negative when nothing is read
+        if ( int < 0 ) exit        ! iostat is negative when nothing is read
         if ( ( transaction == "borrowed" ) .or. ( transaction == "lent" ) ) then
             block
                 ! First we add the Deities to the trees
@@ -45,4 +45,5 @@ program main
         end if
     end do
 
+    call Print_BST(root)
 end program main
