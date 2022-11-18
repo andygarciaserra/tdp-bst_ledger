@@ -29,7 +29,7 @@ contains
 
         call Print_BST(root)
         call Sum_Transactions(root, debitsum, creditsum)
-        print '(a)', ''
+        print *
         print '(a,f0.2)', 'Net debit:  ', debitsum
         print '(a,f0.2)', 'Net credit: ', creditsum
 

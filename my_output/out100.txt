@@ -69,335 +69,335 @@ Atlas has been added.
 Rhea has been added.
 Achlys:
     debit
-      Athena 86.37
-      Lelantos 29.62
+        Athena 86.37
+        Lelantos 29.62
 Aether:
     credit
-      Metis 98.03
+        Metis 98.03
 Aion:
     debit
-      Perses 25.72
+        Perses 25.72
     credit
-      Perses 73.02
+        Perses 73.02
 Ananke:
     debit
-      Pontus 86.81
-      Thanatos 57.44
+        Pontus 86.81
+        Thanatos 57.44
     credit
-      Atlas 63.38
-      Eos 11.03
-      Hemera 34.39
+        Atlas 63.38
+        Eos 11.03
+        Hemera 34.39
 Aphrodite:
     credit
-      Chaos 4.06
-      Chronos 93.24
-      Hemera 89.35
+        Chaos 4.06
+        Chronos 93.24
+        Hemera 89.35
 Apollo:
     debit
-      Cronus 44.92
+        Cronus 44.92
     credit
-      Crius 10.92
-      Theia 60.80
+        Crius 10.92
+        Theia 60.80
 Ares:
     debit
-      Eos 15.56
-      Hades 30.55
-      Iapetus 37.87
-      Selene 6.36
+        Eos 15.56
+        Hades 30.55
+        Iapetus 37.87
+        Selene 6.36
     credit
-      Hemera 35.77
-      Pallas 97.98
+        Hemera 35.77
+        Pallas 97.98
 Artemis:
     debit
-      Helios 2.91
+        Helios 2.91
     credit
-      Astraeus 31.13
-      Hades 11.65
-      Leto 80.03
-      Prometheus 93.44
+        Astraeus 31.13
+        Hades 11.65
+        Leto 80.03
+        Prometheus 93.44
 Asteria:
     debit
-      Lelantos 78.58
+        Lelantos 78.58
 Astraeus:
     debit
-      Artemis 31.13
-      Eros 99.28
-      Hyperion 25.20
-      Iapetus 77.33
-      Pallas 10.78
+        Artemis 31.13
+        Eros 99.28
+        Hyperion 25.20
+        Iapetus 77.33
+        Pallas 10.78
     credit
-      Hera 60.50
+        Hera 60.50
 Athena:
     credit
-      Achlys 86.37
-      Hypnos 70.19
-      Leto 75.72
+        Achlys 86.37
+        Hypnos 70.19
+        Leto 75.72
 Atlas:
     debit
-      Ananke 63.38
+        Ananke 63.38
     credit
-      Uranus 44.86
+        Uranus 44.86
 Chaos:
     debit
-      Aphrodite 4.06
-      Menoetius 14.30
+        Aphrodite 4.06
+        Menoetius 14.30
 Chronos:
     debit
-      Aphrodite 93.24
-      Menoetius 88.55
-      Uranus 63.69
+        Aphrodite 93.24
+        Menoetius 88.55
+        Uranus 63.69
 Coeus:
     debit
-      Hephaestus 17.36
-      Pallas 23.65
+        Hephaestus 17.36
+        Pallas 23.65
 Crius:
     debit
-      Apollo 10.92
-      Cronus 54.25
+        Apollo 10.92
+        Cronus 54.25
     credit
-      Eos 24.39
+        Eos 24.39
 Cronus:
     debit
-      Oceanus 5.89
-      Thalassa 18.10
+        Oceanus 5.89
+        Thalassa 18.10
     credit
-      Apollo 44.92
-      Crius 54.25
-      Hypnos 6.29
+        Apollo 44.92
+        Crius 54.25
+        Hypnos 6.29
 Demeter:
     debit
-      Eros 12.29
+        Eros 12.29
     credit
-      Hestia 60.47
-      Iapetus 73.39
+        Hestia 60.47
+        Iapetus 73.39
 Dione:
     debit
-      Thanatos 75.42
+        Thanatos 75.42
     credit
-      Leto 29.21
+        Leto 29.21
 Dionysus:
     credit
-      Tartarus 72.60
+        Tartarus 72.60
 Eos:
     debit
-      Ananke 11.03
-      Crius 24.39
+        Ananke 11.03
+        Crius 24.39
     credit
-      Ares 15.56
-      Nemesis 75.16
+        Ares 15.56
+        Nemesis 75.16
 Epimetheus:
     debit
-      Epimetheus 19.69
-      Thalassa 84.34
+        Epimetheus 19.69
+        Thalassa 84.34
     credit
-      Epimetheus 19.69
-      Perses 5.88
+        Epimetheus 19.69
+        Perses 5.88
 Erebus:
     debit
-      Nyx 9.27
+        Nyx 9.27
     credit
-      Phanes 51.47
+        Phanes 51.47
 Eros:
     debit
-      Uranus 21.33
+        Uranus 21.33
     credit
-      Astraeus 99.28
-      Demeter 12.29
-      Hades 62.56
-      Thalassa 73.92
+        Astraeus 99.28
+        Demeter 12.29
+        Hades 62.56
+        Thalassa 73.92
 Gaia:
     debit
-      Prometheus 83.11
+        Prometheus 83.11
 Hades:
     debit
-      Artemis 11.65
-      Eros 62.56
-      Hermes 13.07
-      Iapetus 53.01
+        Artemis 11.65
+        Eros 62.56
+        Hermes 13.07
+        Iapetus 53.01
     credit
-      Ares 30.55
+        Ares 30.55
 Helios:
     credit
-      Artemis 2.91
+        Artemis 2.91
 Hemera:
     debit
-      Ananke 34.39
-      Aphrodite 89.35
-      Ares 35.77
-      Thanatos 58.37
+        Ananke 34.39
+        Aphrodite 89.35
+        Ares 35.77
+        Thanatos 58.37
 Hephaestus:
     debit
-      Selene 11.11
+        Selene 11.11
     credit
-      Coeus 17.36
-      Hermes 93.03
+        Coeus 17.36
+        Hermes 93.03
 Hera:
     debit
-      Astraeus 60.50
+        Astraeus 60.50
 Hermes:
     debit
-      Hephaestus 93.03
+        Hephaestus 93.03
     credit
-      Hades 13.07
+        Hades 13.07
 Hestia:
     debit
-      Demeter 60.47
-      Thalassa 24.63
-      Theia 44.90
+        Demeter 60.47
+        Thalassa 24.63
+        Theia 44.90
 Hyperion:
     credit
-      Astraeus 25.20
-      Menoetius 21.51
+        Astraeus 25.20
+        Menoetius 21.51
 Hypnos:
     debit
-      Athena 70.19
-      Cronus 6.29
-      Lelantos 50.36
-      Poseidon 74.08
+        Athena 70.19
+        Cronus 6.29
+        Lelantos 50.36
+        Poseidon 74.08
     credit
-      Mnemosyne 78.90
+        Mnemosyne 78.90
 Iapetus:
     debit
-      Demeter 73.39
+        Demeter 73.39
     credit
-      Ares 37.87
-      Astraeus 77.33
-      Hades 53.01
-      Prometheus 77.58
-      Rhea 22.08
+        Ares 37.87
+        Astraeus 77.33
+        Hades 53.01
+        Prometheus 77.58
+        Rhea 22.08
 Lelantos:
     credit
-      Achlys 29.62
-      Asteria 78.58
-      Hypnos 50.36
-      Metis 24.40
+        Achlys 29.62
+        Asteria 78.58
+        Hypnos 50.36
+        Metis 24.40
 Leto:
     debit
-      Artemis 80.03
-      Athena 75.72
-      Dione 29.21
+        Artemis 80.03
+        Athena 75.72
+        Dione 29.21
 Menoetius:
     debit
-      Hyperion 21.51
+        Hyperion 21.51
     credit
-      Chaos 14.30
-      Chronos 88.55
-      Oceanus 51.95
+        Chaos 14.30
+        Chronos 88.55
+        Oceanus 51.95
 Metis:
     debit
-      Aether 98.03
-      Lelantos 24.40
+        Aether 98.03
+        Lelantos 24.40
     credit
-      Pontus 43.90
+        Pontus 43.90
 Mnemosyne:
     debit
-      Hypnos 78.90
-      Oceanus 48.35
+        Hypnos 78.90
+        Oceanus 48.35
     credit
-      Pontus 31.34
+        Pontus 31.34
 Nemesis:
     debit
-      Eos 75.16
+        Eos 75.16
     credit
-      Nyx 81.69
-      Tartarus 26.32
+        Nyx 81.69
+        Tartarus 26.32
 Nyx:
     debit
-      Nemesis 81.69
-      Thalassa 49.17
-      Theia 4.98
+        Nemesis 81.69
+        Thalassa 49.17
+        Theia 4.98
     credit
-      Erebus 9.27
-      Prometheus 64.72
+        Erebus 9.27
+        Prometheus 64.72
 Oceanus:
     debit
-      Menoetius 51.95
-      Thalassa 86.93
+        Menoetius 51.95
+        Thalassa 86.93
     credit
-      Cronus 5.89
-      Mnemosyne 48.35
+        Cronus 5.89
+        Mnemosyne 48.35
 Pallas:
     debit
-      Ares 97.98
+        Ares 97.98
     credit
-      Astraeus 10.78
-      Coeus 23.65
+        Astraeus 10.78
+        Coeus 23.65
 Perses:
     debit
-      Aion 73.02
-      Epimetheus 5.88
+        Aion 73.02
+        Epimetheus 5.88
     credit
-      Aion 25.72
+        Aion 25.72
 Phanes:
     debit
-      Erebus 51.47
-      Phoebe 13.68
+        Erebus 51.47
+        Phoebe 13.68
 Phoebe:
     credit
-      Phanes 13.68
-      Pontus 17.57
+        Phanes 13.68
+        Pontus 17.57
 Pontus:
     debit
-      Metis 43.90
-      Mnemosyne 31.34
-      Phoebe 17.57
+        Metis 43.90
+        Mnemosyne 31.34
+        Phoebe 17.57
     credit
-      Ananke 86.81
+        Ananke 86.81
 Poseidon:
     credit
-      Hypnos 74.08
+        Hypnos 74.08
 Prometheus:
     debit
-      Artemis 93.44
-      Iapetus 77.58
-      Nyx 64.72
+        Artemis 93.44
+        Iapetus 77.58
+        Nyx 64.72
     credit
-      Gaia 83.11
-      Themis 13.42
+        Gaia 83.11
+        Themis 13.42
 Rhea:
     debit
-      Iapetus 22.08
+        Iapetus 22.08
 Selene:
     credit
-      Ares 6.36
-      Hephaestus 11.11
-      Styx 7.66
+        Ares 6.36
+        Hephaestus 11.11
+        Styx 7.66
 Styx:
     debit
-      Selene 7.66
+        Selene 7.66
 Tartarus:
     debit
-      Dionysus 72.60
-      Nemesis 26.32
+        Dionysus 72.60
+        Nemesis 26.32
 Thalassa:
     debit
-      Eros 73.92
+        Eros 73.92
     credit
-      Cronus 18.10
-      Epimetheus 84.34
-      Hestia 24.63
-      Nyx 49.17
-      Oceanus 86.93
+        Cronus 18.10
+        Epimetheus 84.34
+        Hestia 24.63
+        Nyx 49.17
+        Oceanus 86.93
 Thanatos:
     credit
-      Ananke 57.44
-      Dione 75.42
-      Hemera 58.37
+        Ananke 57.44
+        Dione 75.42
+        Hemera 58.37
 Theia:
     debit
-      Apollo 60.80
+        Apollo 60.80
     credit
-      Hestia 44.90
-      Nyx 4.98
+        Hestia 44.90
+        Nyx 4.98
 Themis:
     debit
-      Prometheus 13.42
+        Prometheus 13.42
 Uranus:
     debit
-      Atlas 44.86
+        Atlas 44.86
     credit
-      Chronos 63.69
-      Eros 21.33
+        Chronos 63.69
+        Eros 21.33
 
 Net debit:  4170.08
 Net credit: 4170.08
