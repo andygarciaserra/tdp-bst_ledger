@@ -148,32 +148,20 @@ contains
     end subroutine Insert_Deity
 
     ! Inserting Credit element to a Deity list
-    recursive subroutine Insert_Credit(root, Deity1, Deity2, amount)
+    recursive subroutine Insert_Transaction(root, Deity1, Deity2, amount, transaction)
         type(a_tree_node), pointer, intent(in out)  :: root
         character (len=:), allocatable, intent(in)  :: Deity1
         character (len=:), allocatable, intent(in)  :: Deity2
+        character (len=:), allocatable, intent(in)  :: transaction
         real(kind=8), intent (in)                   :: amount
         type(a_tree_node), pointer                  :: firstNode
         type(a_tree_node), pointer                  :: secondNode
 
         firstNode => Find_Node(root, Deity1)
         secondNode => Find_Node(root, Deity2)
-        call Insert_in_List(firstNode%credit, amount, secondNode)
-    end subroutine Insert_Credit
-
-    ! Inserting Debit element to a Deity list
-    recursive subroutine Insert_Debit(root, Deity1, Deity2, amount)
-        type(a_tree_node), pointer, intent(in out)  :: root
-        character (len=:), allocatable, intent(in)  :: Deity1
-        character (len=:), allocatable, intent(in)  :: Deity2
-        real(kind=8), intent(in)                    :: amount
-        type(a_tree_node), pointer                  :: firstNode
-        type(a_tree_node), pointer                  :: secondNode
-
-        firstNode => Find_Node(root, Deity1)
-        secondNode => Find_Node(root, Deity2)
-        call Insert_in_List(firstNode%debit, amount, secondNode)
-    end subroutine Insert_Debit
+        if(transaction=='credit') call Insert_in_List(firstNode%credit, amount, secondNode)
+        if(transaction=='debit') call Insert_in_List(firstNode%debit, amount, secondNode)
+    end subroutine Insert_Transaction
 
     ! Destroying the tree
     recursive subroutine Destroy_BST(root)

@@ -1,5 +1,6 @@
 Jupiter has been added.
 Wrong transaction 'took'.
+
 Jupiter:
     debit
         Jupiter 10.00

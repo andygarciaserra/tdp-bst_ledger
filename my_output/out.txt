@@ -6,6 +6,7 @@ Zeus has been added.
 Wrong transaction 'stole'.
 Athena has been added.
 Apollo has been added.
+
 Apollo:
     credit
         Demeter 10.00
