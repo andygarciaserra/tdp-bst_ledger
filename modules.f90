@@ -67,7 +67,7 @@ contains
         block
             if(associated(root)) then
                 call Print_BST(root%left)
-                print '(a,a)', root%name, ':'
+                print '(2a)', root%name, ':'
                 if(associated(root%debit)) then
                     print '(a)', '    debit'
                     call Print_List(root%debit)
@@ -86,7 +86,7 @@ contains
         type(a_list_item), pointer, intent(in)  :: head
 
         if(associated(head)) then
-            print '(a,a,a,f0.2)', '        ', head%deity%name, ' ', head%amount 
+            print '(3a,f0.2)', '        ', head%deity%name, ' ', head%amount 
             call Print_List(head%next)
         end if
     end subroutine Print_List
@@ -139,7 +139,7 @@ contains
         if (.not.associated(node)) then
             allocate(node)
             node = a_tree_node(name=name,debit=null(),credit=null(),left=null(),right=null())
-            print '(a,a)', name," has been added."
+            print '(2a)', name," has been added."
         else if (lgt(name,node%name)) then       ! If the name is Lexically Greater Than the actual one, repeat with right branch
             call Insert_Deity(node%right,name)
         else if(llt(name,node%name)) then        ! If the name is Lexically Less Than the actual one, repeat with left branch

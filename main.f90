@@ -46,7 +46,7 @@ program main
             end block
             
         else    ! We add an error message that pops-up with wrong transactions 
-            print '(a,a,a)',"Wrong transaction '",trim(transaction),"'."
+            print '(3a)',"Wrong transaction '",trim(transaction),"'."
         end if
     end do
     print '(a)'
